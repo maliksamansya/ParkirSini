@@ -1,0 +1,178 @@
+{
+  "facilities": [
+    {
+      "name": "Tenaga Keamanan 24 jam"
+    },
+    {
+      "name": "Wifi gratis"
+    },
+    {
+      "name": "Atap Tertutup"
+    },
+    {
+      "name": "Atap Terbuka"
+    },
+    {
+      "name": "No Smoking"
+    },
+    {
+      "name": "Lantai semen atau lebih baik"
+    },
+    {
+      "name": "Lantai tanah"
+    },
+    {
+      "name": "Menjual minuman/makanan"
+    },
+    {
+      "name": "Rantai penghalang per 1 mobil"
+    },
+    {
+      "name": "Terdapat pagar dan gerbang"
+    },
+    {
+      "name": "Jasa tambahan cuci mobil"
+    },
+    {
+      "name": "Lokasi bebas banjir"
+    }
+  ],
+  "landlords": [
+    {
+      "id": 1,
+      "email": "landlord1@example.com",
+      "password": "password1",
+      "username": "landlord1",
+      "role": "Admin",
+      "phoneNumber": "1234567890",
+      "address": "Address 1",
+      "amount": 1000
+    },
+    {
+      "id": 2,
+      "email": "landlord2@example.com",
+      "password": "password2",
+      "username": "landlord2",
+      "role": "Admin",
+      "phoneNumber": "9876543210",
+      "address": "Address 2",
+      "amount": 2000
+    }
+  ],
+  "parkingSpaces": [
+    {
+      "landlordId": 1,
+      "stock": 10,
+      "mapLong": "123.456",
+      "mapLat": "78.90",
+      "name": "Parking Space 1",
+      "price": 100000,
+      "mainImg": "a",
+      "subtitle": "Subtitle 1",
+      "description": "Description 1",
+      "city": "City 1"
+    },
+    {
+      "landlordId": 2,
+      "stock": 5,
+      "mapLong": "45.678",
+      "mapLat": "12.34",
+      "name": "Parking Space 2",
+      "price": 100000,
+      "mainImg": "a",
+      "subtitle": "Subtitle 2",
+      "description": "Description 2",
+      "city": "City 2"
+    }
+  ],
+  "facilityParking": [
+    {
+      "facilityId": 1,
+      "parkingSpaceId": 1
+    },
+    {
+      "facilityId": 2,
+      "parkingSpaceId": 2
+    }
+  ],
+  "customers": [
+    {
+      "email": "customer1@example.com",
+      "password": "password3",
+      "username": "customer1",
+      "phoneNumber": "1234567890",
+      "address": "Address 1"
+    },
+    {
+      "email": "customer2@example.com",
+      "password": "password4",
+      "username": "customer2",
+      "phoneNumber": "9876543210",
+      "address": "Address 2"
+    }
+  ],
+  "bookings": [
+    {
+      "parkingSpaceId": 1,
+      "customerId": 1,
+      "paid": true,
+      "price": 100,
+      "duration": 2
+    },
+    {
+      "parkingSpaceId": 2,
+      "customerId": 2,
+      "paid": true,
+      "price": 150,
+      "duration": 3
+    }
+  ],
+  "parkingSpaceReviews": [
+    {
+      "parkingSpaceId": 1,
+      "customerId": 1,
+      "rating": 4,
+      "review": "Good parking space"
+    },
+    {
+      "parkingSpaceId": 2,
+      "customerId": 2,
+      "rating": 5,
+      "review": "Excellent parking space"
+    }
+  ],
+  "parkingSpaceImages":[
+    {
+      "parkingSpaceId": 1,
+      "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/357/0835790_PE667051_S4.jpg"
+    },
+    {
+      "parkingSpaceId": 1,
+      "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/357/0835770_PE667049_S4.jpg"
+    },
+    {
+      "parkingSpaceId": 1,
+      "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/357/0835768_PE667048_S4.jpg"
+    },
+    {
+      "parkingSpaceId": 1,
+      "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/103/1010338_PH163577_S4.jpg"
+    },
+    {
+      "parkingSpaceId": 2,
+      "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/708/0870808_PE716735_S4.jpg"
+    },
+    {
+      "parkingSpaceId": 2,
+      "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/708/0870801_PE640070_S4.jpg"
+    },
+    {
+      "parkingSpaceId": 2,
+      "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/715/0871536_PE640577_S4.jpg"
+    },
+    {
+      "parkingSpaceId": 2,
+      "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/708/0870804_PE640576_S4.jpg"
+    }
+  ]
+}
