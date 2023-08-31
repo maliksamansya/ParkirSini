@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Parkir Gemilang Jakarta",
+    "mapLong": "-6.21462",
+    "mapLat": "106.84513",
+    "subtitle": "Jakarta",
+    "description": "Tempat parkir yang terletak di pusat Jakarta.",
+    "city": "Jakarta",
+    "price": 499999,
+    "mainImg": "https://asset.kompas.com/crops/y8Wgtu6HrR2d8tVFKZRiayKu9sA=/0x0:780x390/780x390/data/photo/2015/06/24/1559072image9780x390.jpg",
+    "landlordId": 1,
+    "stock": 10
+  },
+
+  {
+    "name": "Parkir Harmoni Jakarta",
+    "mapLong": "-6.17539",
+    "mapLat": "106.82715",
+    "subtitle": "Jakarta",
+    "description": "Tempat parkir yang nyaman di kawasan Harmoni, Jakarta.",
+    "city": "Jakarta",
+    "price": 499999,
+    "mainImg": "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2019/10/27180357/Parkir-mobil-bandara.jpeg",
+    "landlordId": 1,
+    "stock": 5
+  },
+
+  {
+    "name": "Parkir Sejahtera Jakarta",
+    "mapLong": "-6.17511",
+    "mapLat": "106.86504",
+    "subtitle": "Jakarta",
+    "description": "Tempat parkir modern dan aman di Jakarta Pusat.",
+    "city": "Jakarta",
+    "price": 499999,
+    "mainImg": "https://reportase.tv/wp-content/uploads/2020/04/IMG_20200428_155108.jpg",
+    "landlordId": 1,
+    "stock": 8
+  },
+
+  {
+    "name": "Parkir Murni Bandung",
+    "mapLong": "-6.90389",
+    "mapLat": "107.61861",
+    "subtitle": "Bandung",
+    "description": "Parkir aman dan terawat di pusat kota Bandung.",
+    "city": "Bandung",
+    "price": 499999,
+    "mainImg": "https://img.okezone.com/content/2017/09/19/338/1778723/lahan-parkir-rp400-ribu-per-bulan-mendadak-penuh-kapok-sudah-dua-kali-kena-derek-H9dC7QtXdA.jpg",
+    "landlordId": 1,
+    "stock": 12
+  },
+
+  {
+    "name": "Parkir Indah Bandung",
+    "mapLong": "-6.91474",
+    "mapLat": "107.60981",
+    "subtitle": "Bandung",
+    "description": "Tempat parkir modern dengan fasilitas lengkap di Bandung.",
+    "city": "Bandung",
+    "price": 499999,
+    "mainImg": "https://jogya.com/wp-content/uploads/2017/10/parkir-unik-uajy-jogja.jpg",
+    "landlordId": 2,
+    "stock": 15
+  },
+
+  {
+    "name": "Parkir Terang Bandung",
+    "mapLong": "-6.92223",
+    "mapLat": "107.61913",
+    "subtitle": "Bandung",
+    "description": "Parkir strategis di jantung Kota Bandung.",
+    "city": "Bandung",
+    "price": 499999,
+    "mainImg": "https://images.bisnis-cdn.com/posts/2014/06/21/237717/dsc_0148.jpg",
+    "landlordId": 2,
+    "stock": 6
+  },
+
+  {
+    "name": "Parkir Maju Surabaya",
+    "mapLong": "-7.25747",
+    "mapLat": "112.75209",
+    "subtitle": "Surabaya",
+    "description": "Parkir terdepan di Surabaya dengan pengamanan 24 jam.",
+    "city": "Surabaya",
+    "price": 499999,
+    "mainImg": "https://thumb.katadata.co.id/frontend/thumbnail/2022/11/26/zigi-6381e6db95755-daihatsu-kumpul-sahabat-jogja_910_512.jpg",
+    "landlordId": 2,
+    "stock": 3
+  },
+
+  {
+    "name": "Parkir Cemerlang Surabaya",
+    "mapLong": "-7.27562",
+    "mapLat": "112.64264",
+    "subtitle": "Surabaya",
+    "description": "Tempat parkir luas dan nyaman di Surabaya Timur.",
+    "city": "Surabaya",
+    "price": 499999,
+    "mainImg": "https://aktual.com/wp-content/uploads/2016/05/Lahan-Parkir-14-5-2016-278.jpg",
+    "landlordId": 2,
+    "stock": 7
+  },
+
+  {
+    "name": "Parkir Serasi Surabaya",
+    "mapLong": "-7.25377",
+    "mapLat": "112.75132",
+    "subtitle": "Surabaya",
+    "description": "Parkir modern dan terjangkau di Surabaya Barat.",
+    "city": "Surabaya",
+    "price": 499999,
+    "mainImg": "https://cdn1-production-images-kly.akamaized.net/xohotWGQ-BsVzHxh7NyZxDXj09E=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1833885/original/040654400_1516098702-assassscfsfd.jpg",
+    "landlordId": 2,
+    "stock": 9
+  }
+]

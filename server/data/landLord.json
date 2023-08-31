@@ -1,0 +1,18 @@
+[
+  {
+    "email": "kilam@gmail.com",
+    "password": "12345",
+    "username": "kilam",
+    "role": "landlord",
+    "phoneNumber": "08976475757",
+    "address": "Jl. Iskandar Muda, Mataram"
+  },
+  {
+    "email": "fia@gmail.com",
+    "password": "12345",
+    "username": "fia",
+    "role": "landlord",
+    "phoneNumber": "08976475757",
+    "address": "Jl. Iskandar Muda, Mataram"
+  }
+]

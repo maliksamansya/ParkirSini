@@ -1,0 +1,32 @@
+[
+  {
+    "parkingSpaceId": 1,
+    "customerId": 1,
+    "review": "tempat ini mantul",
+    "rating": 4.9
+  },
+  {
+    "parkingSpaceId": 2,
+    "customerId": 1,
+    "review": "tempat ini mantul",
+    "rating": 4.9
+  },
+  {
+    "parkingSpaceId": 3,
+    "customerId": 1,
+    "review": "tempat ini mantul",
+    "rating": 4.9
+  },
+  {
+    "parkingSpaceId": 4,
+    "customerId": 2,
+    "review": "tempat ini mantul",
+    "rating": 4.9
+  },
+  {
+    "parkingSpaceId": 5,
+    "customerId": 2,
+    "review": "tempat ini mantul",
+    "rating": 4.9
+  }
+]

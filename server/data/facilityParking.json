@@ -1,0 +1,442 @@
+[
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 1
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 1
+  },
+
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 7,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 2
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 2
+  },
+
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 7,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 3
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 3
+  },
+
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 7,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 4
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 4
+  },
+
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 7,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 5
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 5
+  },
+
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 7,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 6
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 6
+  },
+
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 7,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 7
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 7
+  },
+
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 7,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 8
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 8
+  },
+
+  {
+    "facilityId": 1,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 2,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 3,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 4,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 5,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 6,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 7,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 8,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 9,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 10,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 11,
+    "parkingSpaceId": 9
+  },
+  {
+    "facilityId": 12,
+    "parkingSpaceId": 9
+  }
+]
