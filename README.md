@@ -1,6 +1,6 @@
 # Parkir Sini
 
-ini adalah website parkir sini. Website ini menawarkan pengguna agar bisa menyewa lahan parkir sehingga mengurangi kendaraan yang diparkir sembarangan di tepi jalan dan mengurangi kemacetan
+This is the "Park Sini" website. This website offers users the opportunity to rent parking spaces, thereby reducing vehicles parked haphazardly on the roadside and alleviating traffic congestion.
 
 ## Link Live demo
 
